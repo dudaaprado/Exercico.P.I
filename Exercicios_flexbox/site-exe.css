@@ -1,0 +1,38 @@
+ 
+ /*login*/
+ .banner .card{
+     background-image: url(./pexels-andrea-piacquadio-3771110.jpg);
+     background-size: cover;
+     height: auto;
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-items: center;
+     margin: auto;
+     margin-top: 20px;
+ }
+ .card{
+     margin-top: 20px ;
+ 
+ }
+ 
+  .btn{
+      font-family: monospace;
+      margin-top: 10px;
+      border: 0;
+      font-weight: 600;
+      border-radius: 4px ;
+      font-size: 18px;
+      color: white;
+      padding: 10px 15px;
+      background-color: #e75459;
+      cursor: pointer;
+  }
+ 
+  .card input{ 
+      height: 30px;
+      border: 1px solid  green;
+      border-radius: 4px;
+ 
+  }
